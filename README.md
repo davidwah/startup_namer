@@ -1,6 +1,8 @@
 # startup_namer
 
-A new Flutter project.
+A new Flutter project
+
+<img src="img/photo_2022-04.jpg" width="300px">
 
 ## Getting Started
 
